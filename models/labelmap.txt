@@ -70,7 +70,7 @@ dining table
 ???
 toilet
 ???
-tv
+monitor
 laptop
 mouse
 remote
