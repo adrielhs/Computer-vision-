@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 ai-edge-litert
 opencv-python
 numpy
 cv2
+=======
+ai-edge-litert
+opencv-python
+numpy
+>>>>>>> Stashed changes
